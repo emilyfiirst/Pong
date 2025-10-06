@@ -1,11 +1,11 @@
-# 🏓 Pong Game em Python (Turtle)
+# 🏓 Pong Game in Python (Turtle)
 
-Um projeto simples de **Pong** desenvolvido em **Python** usando a biblioteca **turtle**.  
-Este projeto foi criado **para fins de estudo e prática** de programação orientada a objetos e lógica de jogos.
+A simple **Pong** project developed in **Python** using the **turtle** library.  
+This project was created **for study purposes and practice** of object-oriented programming and game logic.
 
 ---
 
-## 🧩 Arquivos do Projeto
+## 🧩 Project Files
 
 - `main.py` → Controla o loop principal do jogo, movimentação da bola, detecção de colisões e pontuação.
 - `ball.py` → Classe `Ball` responsável pelo comportamento da bola (movimento, colisão e reset).
@@ -14,7 +14,7 @@ Este projeto foi criado **para fins de estudo e prática** de programação orie
 
 ---
 
-## ⚙️ Como Executar
+## ⚙️ How to Run
 
 1. Certifique-se de ter **Python 3** instalado.  
 2. Execute o arquivo principal (`main.py`) no terminal ou em um IDE compatível:
@@ -22,13 +22,13 @@ Este projeto foi criado **para fins de estudo e prática** de programação orie
 python main.py
 ```
 
-3. Controles:
-- Jogador da direita: **Seta para cima** e **Seta para baixo**.
-- Jogador da esquerda: **W** (para cima) e **S** (para baixo).
+3. Controls:
+- Right player: **Up arrow** and **Down arrow**.
+- Left player: **W** (up) and **S** (down).
 
 ---
 
-## 🧠 Funcionalidades
+## 🧠 Features
 
 - Bola que se move continuamente e rebate nas paredes.  
 - Colisão com as raquetes que altera a direção da bola.  
@@ -38,13 +38,13 @@ python main.py
 
 ---
 
-## 🎨 Visual
+## 🎨 Visuals
 
 - Tela preta com elementos brancos para raquetes e placar.  
 - Bola vermelha em movimento.  
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Author
 
-Criado para fins de estudo e prática de **programação orientada a objetos**, **lógica de jogos** e **biblioteca turtle** em Python.
+Created for study purposes and practice in **object-oriented programming**, **game logic**, and **Python turtle library**.
